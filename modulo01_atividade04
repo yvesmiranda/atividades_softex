@@ -1,0 +1,36 @@
+var
+nome:caracter
+endereço:caracter
+cidade:caracter
+cpf:inteiro
+rg:inteiro
+idade:inteiro
+nome do pai:caracter
+nome da mãe:caracter
+peso:real
+renda bruta:real
+
+inicio
+escreva(“Qual o seu nome?)
+leia(nome)
+
+escreva(“Qual o seu endereço”)
+leia(endereço)
+
+escreva(“Onde você mora?”)
+leia(cidade)
+
+escreva(“Qual o número do seu CPF”)
+leia(cpf)
+
+escreva(“Qual o número do seu RG”)
+leia(rg)
+
+escreva(“Quantos anos você tem?”)
+leia(idade)
+
+escreva(“Qual o nome completo do seu pai?”)
+leia(nome do pai)
+
+escreva(“Qual o nome completo da sua mãe?”)
+leia(nome da mãe)
